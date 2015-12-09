@@ -1,0 +1,14 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "simple node learning module ",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Zaka",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
